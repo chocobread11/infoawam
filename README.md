@@ -18,18 +18,6 @@
 
 ---
 
-<!-- ====== Profile Statistics ====== -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- Dynamic GitHub stats card -->
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-  &nbsp;
-  <!-- Optional: Top languages -->
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-</p>
----
-
 ## 🌟 Projects & Interests
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
