@@ -37,7 +37,7 @@
 ## 🚀 About Me
 
 - 💻 I love building tools and apps that solve real problems.  
-- 🔭 I’m currently working on [Project Name](https://github.com/YOUR_USERNAME/PROJECT_REPO).  
+- 🔭 I’m currently working on [Golf Scorecard](https://github.com/chocobread11/golf-scorecard).  
 - 🌱 I’m learning more about **cloud-native architecture & AI systems**.  
 - 🤝 I’m open to collaborating on open-source and tech projects.
 
